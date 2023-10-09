@@ -471,6 +471,6 @@ ul {
 .footer-soc-icon {
   fill: #f4f4fd;
 }
-.footer-instagram {
+.footer-soc-list-link {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
